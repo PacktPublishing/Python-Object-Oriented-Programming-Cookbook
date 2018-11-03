@@ -11,7 +11,7 @@ there are any known point where that will fail, they will be noted.
 
 -    Creating the virtual environment:
 
-    ```python3 -m venv ~/py_envs/pyoopc```
+    `python3 -m venv ~/py_envs/pyoopc`
 
     Or use whatever other path is convenient/preferred over the `py-envs` 
     specified — whatever that path is, it would be needed in the activation 
@@ -19,11 +19,11 @@ there are any known point where that will fail, they will be noted.
 
 -    Activating the virtual environment:
 
-    ```source ~/py_envs/pyoopc/bin/activate```
+    `source ~/py_envs/pyoopc/bin/activate`
 
 -    Creating the virtual environment:
 
-    ```deactivate```
+    `deactivate`
 
 -   Updating the associated `requirements.txt` file:
 
