@@ -1,7 +1,11 @@
 # Creating the Python VE (if needed)
 
 Because the default version of Python on the Author's system was in the 
-2.7.x range, a Python Virtual Environment was created specifically 
+2.7.x range, a Python Virtual Environment was created specifically to 
+provide the most current version of Python that the upstream provider 
+actively supports. Code written against this VE (virtual environment) is 
+generally expected to work for later versions (3.7.x) as well, but if 
+there are any known point where that will fail, they will be noted.
 
 ## Linux instructions
 
