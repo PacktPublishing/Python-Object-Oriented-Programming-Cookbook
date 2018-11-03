@@ -9,7 +9,7 @@ there are any known point where that will fail, they will be noted.
 
 ## Linux instructions
 
--    Creating the virtual environment:
+-    Creating the virtual environment (`pyoopc`):
 
     `python3 -m venv ~/py_envs/pyoopc`
 
@@ -17,11 +17,11 @@ there are any known point where that will fail, they will be noted.
     specified — whatever that path is, it would be needed in the activation 
     command-line call, below, as well)
 
--    Activating the virtual environment:
+-    Activating the `pyoopc` virtual environment:
 
     `source ~/py_envs/pyoopc/bin/activate`
 
--    Creating the virtual environment:
+-    Deactivating the `pyoopc` virtual environment:
 
     `deactivate`
 
@@ -33,7 +33,7 @@ there are any known point where that will fail, they will be noted.
     which is a concern for any Ubuntu-based Linux distros — they tend to 
     contain 
 
-    ```pkg-resources==0.0.0```
+    `pkg-resources==0.0.0`
 
     with some frequency
 
