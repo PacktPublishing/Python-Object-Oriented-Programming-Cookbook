@@ -1,2 +1,1 @@
-# Python-Object-Oriented-Programming-Cookbook
-Python Object Oriented Programming Cookbook, published by Packt
+# The code for this repository is under development :construction_worker:
