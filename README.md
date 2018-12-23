@@ -3,6 +3,10 @@
 > Part of the "Python Object Oriented Programming Cookbook" title, 
 > published by Packt
 
+[*Virtual Environment Set-up Notes*](VirtualEnvironmentNotes.md) — 
+How to duplicate the Python Virtual Environment used to write the code 
+in these recipes (if needed).
+
 [Chapter 1: **Idiomatic Python**](Chapter01/README.md) — 
 Code for recipes dealing with various Python idioms that occur 
 through the book
