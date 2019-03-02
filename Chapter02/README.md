@@ -11,25 +11,24 @@
 A bare-bones class definition
 
 [Recipe 2: **Restricting member access**](C02R02_NonPublicMembers.py) — 
-Description
+Implementing "protected" and "private" class-members in Python
 
-[Recipe 3: **Defining properties using `property` as a decorator**](C02R03_PropertiesviaDecorator.py) — 
-Description
+[Recipe 4: **Managing attributes using `property` as a decorator**](C02R03_PropertiesviaDecorator.py) — 
+Creating properties (managed attributes) using Python's `property` function as a decorator
 
-[Recipe 4: **Defining properties using `property` as a function**](C02R04_PropertiesviaFunction.py) — 
-Description
+[Recipe 5: **Managing attributes using `property` as a function**](C02R04_PropertiesviaFunction.py) — 
+Creating properties (managed attributes) using Python's `property` function to directly 
+assign getter-, setter- and deleter-methods, as well as documentation
 
-[Recipe 5: **Passing object-state during construction**](C02R05_PassingStateinConstruction.py) — 
-Description
+[Recipe 6: **Passing object-state during construction**](C02R05_PassingStateinConstruction.py) — 
+A typical code-structure for initializing object-instances' state-data with arguments 
+provided during creation
 
-[Recipe 6: **Creating class attributes**](C02R06_CreatingClassAttributes.py) — 
-Description
+[Recipe 7: **Creating class attributes**](C02R06_CreatingClassAttributes.py) — 
 
-[Recipe 7: **Creating class methods**](C02R07_CreatingClassMethods.py) — 
-Description
+[Recipe 8: **Creating class methods**](C02R07_CreatingClassMethods.py) — 
 
-[Recipe 8: **Creating static methods**](C02R08_CreatingStaticMethods.py) — 
-Description
+[Recipe 9: **Creating static methods**](C02R08_CreatingStaticMethods.py) — 
 
-[Recipe 9: **Simplifying class definitions: The dataclasses module**](C02R09_BasicDataclassDefinition.py) — 
-Description
+[Recipe 10: **Simplifying class definitions: The dataclasses module**](C02R09_BasicDataclassDefinition.py) — 
+Exploring an alternative syntax for quickly creating classes
