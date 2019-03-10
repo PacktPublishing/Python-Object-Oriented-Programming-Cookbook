@@ -16,12 +16,9 @@ Description
 [Recipe 3: **Inheriting from multiple parent classes**](C03R03_MultipleInheritance.py) — 
 Description
 
-[Recipe 4: **Hidden data and the public interface**](C03R04_HidingDataInterfaces.py) — 
+[Recipe 4: **Creating interface requirements**](C03R04_CreatingInterfaces.py) — 
 Description
 
-[Recipe 5: **Creating interface requirements**](C03R05_CreatingInterfaces.py) — 
-Description
-
-[Recipe 6: **Encapsulating what varies**](C03R06_EncapulateWhatVaries.py) — 
+[Recipe 5: **Encapsulating what varies**](C03R05_EncapulateWhatVaries.py) — 
 Description
 
