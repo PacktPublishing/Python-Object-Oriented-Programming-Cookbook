@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Object Factories, Inc.",
+        "location": "312",
+        "start": "2020-01-25 09:00:00",
+        "end": "2020-01-26 15:00:00"
+    },
+    {
+        "name": "Peer-networking space",
+        "location": "Center",
+        "start": "2020-01-25 09:00:00",
+        "end": "2020-01-26 15:00:00"
+    },
+    {
+        "name": "Abstract Studios",
+        "location": "101",
+        "start": "2020-01-25 09:00:00",
+        "end": "2020-01-26 15:00:00"
+    },
+    {
+        "name": "Q-Code",
+        "location": "306",
+        "start": "2020-01-25 09:00:00",
+        "end": "2020-01-26 15:00:00"
+    }
+]

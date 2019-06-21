@@ -13,18 +13,11 @@ Description
 [Recipe 2: **Using the Abstract Factory pattern**](C06R02_AbstractFactoryPattern.py) — 
 Description
 
-[Recipe 3: **Leveraging Python features in Factory-like code**](C06R03_LeveragingPythonInFactories.py) — 
+[Recipe 3: **Working with the Builder pattern**](C06R04_BuilderPattern.py) — 
 Description
 
-[Recipe 4: **Working with the Builder pattern**](C06R04_BuilderPattern.py) — 
+[Recipe 4: **Staying ready with the Object Pool pattern**](C06R05_ObjectPoolPattern.py) — 
 Description
 
-[Recipe 5: **Staying ready with the Object Pool pattern**](C06R05_ObjectPoolPattern.py) — 
+[Recipe 5: **Controlling how many instances can be created with the Singleton pattern**](C06R06_SingletonPattern.py) — 
 Description
-
-[Recipe 6: **There can be only one: The Singleton pattern**](C06R06_SingletonPattern.py) — 
-Description
-
-[Recipe 00: **RECIPE_NAME**](FILE_NAME) — 
-Description
-

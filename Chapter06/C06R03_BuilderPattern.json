@@ -1,0 +1,102 @@
+{
+    "name": "ObjectCon 2019",
+    "exhibit": {
+        "location": "Exhibit Hall C",
+        "start": "2020-01-25 09:00:00",
+        "end": "2020-01-26 15:00:00",
+        "exhibitors": {
+            "Object Factories, Inc.": {
+                "name": "Object Factories, Inc.",
+                "location": "312",
+                "start": "2020-01-25 09:00:00",
+                "end": "2020-01-26 15:00:00"
+            },
+            "Peer-networking space": {
+                "name": "Peer-networking space",
+                "location": "Center",
+                "start": "2020-01-25 09:00:00",
+                "end": "2020-01-26 15:00:00"
+            },
+            "Abstract Studios": {
+                "name": "Abstract Studios",
+                "location": "101",
+                "start": "2020-01-25 09:00:00",
+                "end": "2020-01-26 15:00:00"
+            },
+            "Q-Code": {
+                "name": "Q-Code",
+                "location": "306",
+                "start": "2020-01-25 09:00:00",
+                "end": "2020-01-26 15:00:00"
+            }
+        }
+    },
+    "events": [
+        {
+            "name": "Keynote Address",
+            "location": "Auditorium",
+            "start": "2020-01-24 18:00:00",
+            "end": "2020-01-24 19:00:00"
+        },
+        {
+            "name": "Social/Mingler",
+            "location": "Auditorium",
+            "start": "2020-01-24 19:00:00",
+            "end": "2020-01-24 22:00:00"
+        },
+        {
+            "name": "The Singleton",
+            "location": "Conf A1",
+            "start": "2020-01-25 07:00:00",
+            "end": "2020-01-25 08:30:00"
+        },
+        {
+            "name": "Abstracting your Objects",
+            "location": "Conf A2",
+            "start": "2020-01-25 07:00:00",
+            "end": "2020-01-25 08:30:00"
+        },
+        {
+            "name": "Metaclasses Explained",
+            "location": "Conf A3",
+            "start": "2020-01-25 07:00:00",
+            "end": "2020-01-25 08:30:00"
+        },
+        {
+            "name": "Networking Breakfast",
+            "location": "A Hall",
+            "start": "2020-01-25 08:30:00",
+            "end": "2020-01-25 10:00:00"
+        },
+        {
+            "name": "Type Emulation",
+            "location": "Conf A1",
+            "start": "2020-01-25 10:00:00",
+            "end": "2020-01-25 11:00:00"
+        },
+        {
+            "name": "Abstracting Factories",
+            "location": "Conf A2",
+            "start": "2020-01-25 10:00:00",
+            "end": "2020-01-25 11:00:00"
+        },
+        {
+            "name": "Enumeration or namedtuple",
+            "location": "Conf A3",
+            "start": "2020-01-25 10:00:00",
+            "end": "2020-01-25 11:00:00"
+        },
+        {
+            "name": "Networking Luncheon",
+            "location": "Exhibit Hall C",
+            "start": "2020-01-25 11:30:00",
+            "end": "2020-01-25 13:30:00"
+        },
+        {
+            "name": "Conference Closure",
+            "location": "Auditorium",
+            "start": "2020-01-26 16:00:00",
+            "end": "2020-01-26 18:00:00"
+        }
+    ]
+}
